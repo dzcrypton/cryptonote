@@ -1,5 +1,5 @@
 This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurrency protocol.
-
+apt-get update apt-get install build-essential g++ python-dev autotools-dev libicu-dev build-essential libbz2-dev libboost-all-dev git cmake g++ -y
 * Launch your own CryptoNote currency: [CryptoNote Starter](https://cryptonotestarter.org/)
 * CryptoNote reference implementation: [CryptoNoteCoin](https://cryptonote-coin.org)
 * Discussion board and support: [CryptoNote Forum](https://forum.cryptonote.org)
